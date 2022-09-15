@@ -1,4 +1,4 @@
-package com.imashnake.dank.ui.theme
+package com.imashnake.dank.features.theme
 
 import androidx.compose.ui.graphics.Color
 
