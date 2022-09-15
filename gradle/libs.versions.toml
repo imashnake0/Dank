@@ -18,8 +18,8 @@ composeMaterial3 = "1.0.0-alpha11"
 junit = "4.13.2"
 
 [plugins]
-agp = { id = "com.android.application", version = "7.4.0-alpha02" }
-kotlin = { id = "org.jetbrains.kotlin.android", version = "1.6.10" }
+agp = { id = "com.android.application", version = "7.2.2" }
+kotlin = { id = "org.jetbrains.kotlin.android", version = "1.6.21" }
 
 [libraries]
 androidx-activityCompose = { group = "androidx.activity", name = "activity-compose", version.ref = "activity" }
